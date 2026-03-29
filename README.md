@@ -37,4 +37,4 @@ An interactive Streamlit application that allows users to search for football ma
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/ai-football-player-analytics.git
-cd ai-football-player-analytics
+cd Ai-football-player-analytics
